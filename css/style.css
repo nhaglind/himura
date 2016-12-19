@@ -1,0 +1,14 @@
+body {
+  background: #eee;
+  margin: 0 auto;
+}
+
+#game-container {
+  position: relative;
+  width: 100vw;
+  max-width: 768px;
+  height: 100%;
+  min-height: 100vh;
+  overflow-y: auto;
+  margin: 0 auto;
+}
